@@ -4,6 +4,6 @@
  */
 public class Main {
     public static void main(String... args) {
-        System.out.println("test-rebase-main");
+        System.out.println("test-for-rebase");
     }
 }
